@@ -1,0 +1,22 @@
+body {
+  background-color: burlywood;
+}
+
+.containair form {
+  text-align: center;
+}
+
+h1 {
+  background-color: black;
+  text-align: center;
+  color: azure;
+}
+
+.get-jokes {
+  background-color: rgb(37, 48, 37);
+  color: #ffff;
+}
+
+.jokes {
+  text-align: center;
+}
